@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Um pedaço de madeira velho... Talvez eu possa afiá-lo\ne usá-lo como arma...","effects":[],"hitType":0,"iconIndex":295,"itypeId":1,"name":"Pedaço de madeira","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":20},"description":"Restaura 100 de HP.","effects":[],"hitType":0,"iconIndex":260,"itypeId":1,"name":"Peixe assado","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"50","type":4,"variance":20},"description":"Restaura 50 de MP.","effects":[],"hitType":0,"iconIndex":266,"itypeId":1,"name":"Pão","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
